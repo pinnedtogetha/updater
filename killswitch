@@ -1,4 +1,2 @@
-{
-  "kill": false,
-  "message": "Emergency shutdown due to critical exploit."
-}
+KILL=true
+MESSAGE=Emergency shutdown due to critical bug.
